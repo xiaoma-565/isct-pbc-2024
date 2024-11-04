@@ -10,7 +10,7 @@ paginate: true
 
 **Programming Boot Camp**
 
-# ノーコードツール Bubble について
+# Bubble の基本
 
 **東京化学大学 2024/11/09**
 　
@@ -18,12 +18,12 @@ paginate: true
 　
 　
 　
-　　　　　　　　　　　　　　　　　　　**Naotake KYOGOKU**
+　　　　　　　　　　　　　　　　　　　　　**Naotake KYOGOKU**
 
 ---
 
 ## 目次
-- ノーコードツールとは / Bubble とは
+- Bubble とは
 - まずはサインアップの部品を使ってユーザ登録画面を作ってみよう
 - Bubble でのアプリ開発の概要説明
 - ユーザ登録、ログイン機能を作ってみよう
@@ -31,13 +31,6 @@ paginate: true
 - ペット詳細画面を作ってみよう
 - 画面間の共通部品を作っていこう
 - まとめ
-
----
-
-## ノーコードツールとは
-
-- ノーコードツールとは、プログラミングの知識がなくても、視覚的な操作だけでアプリやウェブサイトを作れるツールです
-- ドラッグ＆ドロップや簡単な設定を使って、機能を組み合わせることで、誰でもアイデアをすぐに形にすることができます
 
 ---
 
@@ -154,6 +147,11 @@ paginate: true
   1. Design
   2. Workflow
   3. Data
+
+![bg right h:400px](images/2024-10-28-22-06-51.png)
+
+---
+
 - 左メニューからそれぞれを行き来することができます
 
 ![bg right h:400px](images/2024-10-28-22-06-51.png)
@@ -308,7 +306,6 @@ paginate: true
 # :hourglass_flowing_sand:
 # :hourglass:
 
-
 ---
 
 **答え合わせ :memo:**
@@ -349,7 +346,6 @@ paginate: true
 - ブラウザの横幅を縮めてみてください
 
 https://matsushitahome.com/
-
 
 ---
 
