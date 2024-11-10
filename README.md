@@ -13,15 +13,15 @@
 ### #2 2023/11/16 2024/11/9 Learning Phase 2
 
 #### Table of contents
-- [`How to setup`](./docs/learning-phase-2/1-how-to-setup.md)
-- [`Experience API Development Basics #1`](./docs/learning-phase-2/2-experience-api-development-1.md)
-- [`Experience API Development Basics #2-1`](./docs/learning-phase-2/2-experience-api-development-2.md)
-- [`Experience API Development Basics #2-2`](./docs/learning-phase-2/2-experience-api-development-3.md)
-- [`Experience API Development Basics #2-3`](./docs/learning-phase-2/2-experience-api-development-4.md)
-- [`Experience API Development Basics #2-4`](./docs/learning-phase-2/2-experience-api-development-5.md)
-- [`Experience API Development Basics #2-5`](./docs/learning-phase-2/2-experience-api-development-6.md)
-- [`Experience API Development Basics #2-6`](./docs/learning-phase-2/2-experience-api-development-7.md)
-- [`Experience Web Development Basics #3`](./docs/learning-phase-2/3-experience-front-development-1.md)
+- [How to setup](./docs/learning-phase-2/1-how-to-setup.md)
+- [Experience API Development Basics #1](./docs/learning-phase-2/2-experience-api-development-1.md)
+- [Experience API Development Basics #2-1](./docs/learning-phase-2/2-experience-api-development-2.md)
+- [Experience API Development Basics #2-2](./docs/learning-phase-2/2-experience-api-development-3.md)
+- [Experience API Development Basics #2-3](./docs/learning-phase-2/2-experience-api-development-4.md)
+- [Experience API Development Basics #2-4](./docs/learning-phase-2/2-experience-api-development-5.md)
+- [Experience API Development Basics #2-5](./docs/learning-phase-2/2-experience-api-development-6.md)
+- [Experience API Development Basics #2-6](./docs/learning-phase-2/2-experience-api-development-7.md)
+- [Experience Web Development Basics #3](./docs/learning-phase-2/3-experience-front-development-1.md)
 
 ### #3 2023/11/23 2024/11/9 Learning Phase 3
 

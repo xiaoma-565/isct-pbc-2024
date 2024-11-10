@@ -94,7 +94,7 @@ Select `Continue for free`. (It takes some time to use GitHub Pro for students b
 ![Continue for free](images/1/14.png)
 
 After account creation, open the following URL
-[https://github.com/GuildWorks/isct2024/learning-phase-2](https://github.com/GuildWorks/isct2024/learning-phase-2)
+[https://github.com/GuildWorks/isct-pbc-2024](https://github.com/GuildWorks/isct-pbc-2024)
 
 Click `Fork` Button.
 
@@ -111,7 +111,7 @@ Click `< > Code` Button and copy url for cloning.
 Open terminal and type `git clone <Copied URL>` in the terminal
 ![git clone](images/1/18.png)
 
-Click `File > Open Folder...` and select `learning-phase-4` folder.
+Click `File > Open Folder...` and select `isct-pbc-2024` folder.
 ![Open Folder](images/1/19.png)
 <!-- ![](images/1/2023-11-17-08-38-57.png) -->
 
@@ -218,7 +218,7 @@ Click `Connect` button.
 
 ![](images/1/37.png)
 
-Click `Copy Snipoet` button.
+<!-- Click `Copy Snipoet` button.
 
 ![](images/1/38.png)
 
@@ -247,31 +247,7 @@ POSTGRES_HOST="db.xxx.supabase.co"
 NEXT_PUBLIC_SUPABASE_ANON_KEY="xxx"
 ```
 
-like this.
-
-
-
-
-
-
-
-
-
-<!-- 参考: https://vercel.com/guides/nextjs-prisma-postgres#step-2-set-up-your-vercel-postgres-database -->
-Back to project dashboard and open `Storage` tab, then click `Connect Store` button.
-![](images/1/2023-11-17-09-24-06.png)
-
-Select `Postgres` and click `Continue` button.
-
-![](images/1/2023-11-17-09-26-20.png)
-
-Leave the default settings and click `Create & Continue` button.
-
-![](images/1/2023-11-17-09-30-08.png)
-
-Leave the default settings and click `Connect` button.
-
-![](images/1/2023-11-17-09-31-54.png)
+like this. -->
 
 ### Create Vercel Link
 
