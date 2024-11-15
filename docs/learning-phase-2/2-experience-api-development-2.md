@@ -39,7 +39,7 @@ FYI: [CRUD](https://developer.mozilla.org/docs/Glossary/CRUD)
 | -------- | ----------------- |
 | /pets    | Retrieve all pets |
 
-Add file: [`src/app/api/pets/route.ts`](../src/app/api/pets/route.ts)
+Add file: [`src/app/api/pets/route.ts`](../../learning-phase-2/src/app/api/pets/route.ts)
 
 1. Click app folder
 2. Click New File...
@@ -50,7 +50,7 @@ Add file: [`src/app/api/pets/route.ts`](../src/app/api/pets/route.ts)
 
 ![Visual Studio Code](./images/2/15.png)
 
-Created file: [`src/app/api/pets/route.ts`](../src/app/api/pets/route.ts)
+Created file: [`src/app/api/pets/route.ts`](../../learning-phase-2/src/app/api/pets/route.ts)
 
 ![Visual Studio Code](./images/2/16.png)
 
@@ -549,13 +549,13 @@ Try to change it to the data you want.
 | -------- | ------------------------------ |
 | /pet/1   | Retrieve the details for pet 1 |
 
-Add file: [`src/app/api/pets/[id]/route.ts`](../src/app/api/pets/[id]/route.ts)
+Add file: [`src/app/api/pets/[id]/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/route.ts)
 
 1. Click pets folder
 2. Click New File...
 3. Enter `[id]/route.ts`
 
-Created file: [`src/app/api/pets/[id]/route.ts`](../src/app/api/pets/[id]/route.ts)
+Created file: [`src/app/api/pets/[id]/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/route.ts)
 
 like this:
 

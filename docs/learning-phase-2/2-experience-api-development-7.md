@@ -56,7 +56,7 @@ List of URL
 - `api/pets/1`
 - `api/pets/1/weights`
 
-Open file: [`request.http`](../request.http)
+Open file: [`request.http`](../../learning-phase-2/request.http)
 
 Edit the following code to your `request.http`:
 

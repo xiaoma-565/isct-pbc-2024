@@ -8,7 +8,7 @@
 | -------- | ------------------- |
 | /pets    | Bulk update of pets |
 
-Open file: [`src/app/api/pets/route.ts`](../src/app/api/pets/route.ts)
+Open file: [`src/app/api/pets/route.ts`](../../learning-phase-2/src/app/api/pets/route.ts)
 
 Enter the following code to your `route.ts`:
 
@@ -102,7 +102,7 @@ const pets = await prisma.pet.updateMany({
 })
 ```
 
-Open file: [`request.http`](../request.http)
+Open file: [`request.http`](../../learning-phase-2/request.http)
 
 Enter the following code to your `request.http`:
 
@@ -208,7 +208,7 @@ Updateed pet records!
 | -------- | ---------------------------------------- |
 | /pets/1  | Update the details of pet 1 if it exists |
 
-Open file: [`src/app/api/pets/[id]/route.ts`](../src/app/api/pets/[id]/route.ts)
+Open file: [`src/app/api/pets/[id]/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/route.ts)
 
 Enter the following code to your `route.ts`:
 
@@ -269,7 +269,7 @@ export async function GET(request: Request, { params }: { params: { id: string }
 +}
 ```
 
-Open file: [`request.http`](../request.http)
+Open file: [`request.http`](../../learning-phase-2/request.http)
 
 Enter the following code to your `request.http`:
 

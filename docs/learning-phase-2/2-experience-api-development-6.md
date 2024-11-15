@@ -144,13 +144,13 @@ Added weight model!
 | --------------- | ------------------------------------ |
 | /pets/1/weights | Create the weight if it pet 1 exists |
 
-Add file: [`src/app/api/pets/[id]/weights/route.ts`](../src/app/api/pets/[id]/weights/route.ts)
+Add file: [`src/app/api/pets/[id]/weights/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/weights/route.ts)
 
 1. Click [id] folder
 2. Click New File...
 3. Enter `weights/route.ts`
 
-Created file: [`src/app/api/pets/[id]/weights/route.ts`](../src/app/api/pets/[id]/weights/route.ts)
+Created file: [`src/app/api/pets/[id]/weights/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/weights/route.ts)
 
 like this:
 
@@ -166,7 +166,7 @@ src
 │   │       └── route.ts
 ```
 
-Open file: [`src/app/api/pets/[id]/weights/route.ts`](../src/app/api/pets/[id]/weights/route.ts)
+Open file: [`src/app/api/pets/[id]/weights/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/weights/route.ts)
 
 Enter the following code to your `route.ts`:
 
@@ -191,7 +191,7 @@ export async function POST(request: Request, { params }: { params: { id: string 
 }
 ```
 
-Open file: [`request.http`](../request.http)
+Open file: [`request.http`](../../learning-phase-2/request.http)
 
 Enter the following code to your `request.http`:  
 Add to the bottom.
@@ -276,7 +276,7 @@ Created weight record!
 
 It should be possible to get it with the details of `/pets/1`.
 
-Open file: [`src/app/api/pets/[id]/route.ts`](../src/app/api/pets/[id]/route.ts)
+Open file: [`src/app/api/pets/[id]/route.ts`](../../learning-phase-2/src/app/api/pets/[id]/route.ts)
 
 Enter the following code to your `route.ts`:
 

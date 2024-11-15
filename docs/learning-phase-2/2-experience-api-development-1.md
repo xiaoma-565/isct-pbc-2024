@@ -175,14 +175,14 @@ datasource db {
 > | `control + s` | `command + s` |
 
 Run the following command to create your database.  
-This also creates the `User` and `Pet` tables that are defined in [`prisma/schema.prisma`](../prisma/schema.prisma):
+This also creates the `User` and `Pet` tables that are defined in [`prisma/schema.prisma`](../../learning-phase-2/prisma/schema.prisma):
 
 ```bash
 npx prisma migrate dev --name init
 ```
 
 When `npx prisma migrate dev` is executed against a newly created database, seeding is also triggered.  
-The seed file in [`prisma/seed.ts`](../prisma/seed.ts) will be executed and your database will be populated with the sample data.
+The seed file in [`prisma/seed.ts`](../../learning-phase-2/prisma/seed.ts) will be executed and your database will be populated with the sample data.
 
 > [!NOTE]
 > Options `--name xxx` Can be named for clarity.
@@ -267,9 +267,9 @@ Use Prisma Studio's interface to you can also create, update, and delete user an
 ### 5. Check the seed
 
 When `npx prisma migrate dev` is executed against a newly created database, seeding is also triggered.  
-The seed file in [`prisma/seed.ts`](../../learning-phase-2//prisma/seed.ts) will be executed and your database will be populated with the sample data.
+The seed file in [`prisma/seed.ts`](../../learning-phase-2/prisma/seed.ts) will be executed and your database will be populated with the sample data.
 
-Open file: [`prisma/seed.ts`](../../learning-phase-2//prisma/seed.ts)
+Open file: [`prisma/seed.ts`](../../learning-phase-2/prisma/seed.ts)
 
 ```ts
 import { PrismaClient } from '@prisma/client'

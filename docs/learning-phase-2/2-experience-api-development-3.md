@@ -8,7 +8,7 @@
 | -------- | ---------------- |
 | /pets    | Create a new pet |
 
-Open file: [`src/app/api/pets/route.ts`](../src/app/api/pets/route.ts)
+Open file: [`src/app/api/pets/route.ts`](../../learning-phase-2/src/app/api/pets/route.ts)
 
 Enter the following code to your `route.ts`:
 
@@ -102,7 +102,7 @@ Install Extentions:
 
 ![Visual Studio Code](./images/2/20.png)
 
-Add file: [`request.http`](../request.http)
+Add file: [`request.http`](../../learning-phase-2/request.http)
 
 1. Click LEARNING-PHASE-4 folder
 2. Click New File...

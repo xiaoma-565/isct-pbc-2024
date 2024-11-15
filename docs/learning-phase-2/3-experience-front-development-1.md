@@ -4,7 +4,7 @@
 
 ![Web](./images/2/30.png)
 
-Open file: [`src/app/layout.tsx`](../src/app/layout.tsx)
+Open file: [`src/app/layout.tsx`](../../learning-phase-2/src/app/layout.tsx)
 
 Enter the following code to your `layout.tsx`:
 
@@ -50,7 +50,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 }
 ```
 
-Open file: [`src/app/page.tsx`](../src/app/page.tsx)
+Open file: [`src/app/page.tsx`](../../learning-phase-2/src/app/page.tsx)
 
 Enter the following code to your `page.tsx`:
 
@@ -127,7 +127,7 @@ export default function Pets() {
 }
 ```
 
-Open file: [`src/app/pets/[id]/page.tsx`](../src/app/pets/[id]/page.tsx)
+Open file: [`src/app/pets/[id]/page.tsx`](../../learning-phase-2/src/app/pets/[id]/page.tsx)
 
 Enter the following code to your `page.tsx`:
 
@@ -251,5 +251,3 @@ export default function Pets({ params }: { params: { id: string } }) {
   )
 }
 ```
-
-Next [`Replace Vercel Postgres with Supabase Postgres #4`](./4-replace-vercel-postgres-with-supabase-postgres.md)
