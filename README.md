@@ -12,7 +12,6 @@
 
 ### #2 2023/11/16 2024/11/9 Learning Phase 2
 
-#### Table of contents
 - [How to setup](./docs/learning-phase-2/1-how-to-setup.md)
 - [Experience API Development Basics #1](./docs/learning-phase-2/2-experience-api-development-1.md)
 - [Experience API Development Basics #2-1](./docs/learning-phase-2/2-experience-api-development-2.md)
