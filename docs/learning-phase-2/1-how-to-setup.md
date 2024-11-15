@@ -222,37 +222,6 @@ Click `Connect` button.
 
 ![](images/1/37.png)
 
-<!-- Click `Copy Snipoet` button.
-
-![](images/1/38.png)
-
-Create file [`.env`](../.env)
-
-Select `learning-phase-2` folder and Click `New File` button.
-
-![](images/1/39.png)
-
-Type `.env`
-
-Paste Clipboard.
-
-```ts
-POSTGRES_URL="postgres://xxx"
-POSTGRES_PRISMA_URL="postgres://xxx"
-NEXT_PUBLIC_SUPABASE_URL="https://xxx.supabase.co"
-POSTGRES_URL_NON_POOLING="postgres://xxx/postgres?sslmode=require"
-SUPABASE_JWT_SECRET="xxx"
-POSTGRES_USER="postgres"
-NEXT_PUBLIC_SUPABASE_ANON_KEY="xxx"
-POSTGRES_PASSWORD="xxx"
-POSTGRES_DATABASE="postgres"
-SUPABASE_SERVICE_ROLE_KEY="xxx"
-POSTGRES_HOST="db.xxx.supabase.co"
-NEXT_PUBLIC_SUPABASE_ANON_KEY="xxx"
-```
-
-like this. -->
-
 ### Create Vercel Link
 
 Open terminal and run following command.
@@ -285,7 +254,7 @@ Vercel CLI Login succeeded. Back to terminal.
 
 ![](images/1/43.png)
 
-When you are asked `Set up “~\learning-phase-4”?`, type `Y` and press Enter key.
+When you are asked `Set up “~\learning-phase-2”?`, type `Y` and press Enter key.
 
 ![](images/1/44.png)
 
@@ -293,7 +262,7 @@ When you are asked `Which scope should contain your project?`, press Enter key.
 
 ![](images/1/45.png)
 
-When you are asked `Found project “<Your name>s-projects/learning-phase-4”. Link to it?`, type `Y` and press Enter key.
+When you are asked `Found project “<Your name>s-projects/learning-phase-2”. Link to it?`, type `Y` and press Enter key.
 
 Your local environment has been linked to vercel project.
 
