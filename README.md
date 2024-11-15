@@ -5,7 +5,7 @@
 ### #1 2024/11/9 Learning Phase 1
 
 - [ノーコード開発とは](./docs/learning-phase-1/NoCode/pdf/NoCodeDevelopment-jp.pdf)
-- [What is No-Code Development?](./docs/learning-phase-1/NoCode/pdf/Bubble1-jp.pdf)
+- [What is No-Code Development?](./docs/learning-phase-1/NoCode/pdf/NoCodeDevelopment-en.pdf)
 - [Bubble の基本](./docs/learning-phase-1/Bubble1/pdf/Bubble1-jp.pdf)
 - [Bubble Basics](./docs/learning-phase-1/Bubble1/pdf/Bubble1-en.pdf)
 
