@@ -23,7 +23,7 @@ datasource db {
 
 ### 2. The model definitions
 
-Pet model learned in learning phase #1 and #2
+Pet model learned in learning phase #1
 
 **User**
 
