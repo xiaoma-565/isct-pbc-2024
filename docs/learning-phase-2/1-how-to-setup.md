@@ -33,7 +33,7 @@ node -v
 If you see "v22.11.0", it is OK.
 ![Node.js](./images/1/5.png)
 
-If you see the message like this, shutdown Visual Studio Code and relaunch it, then Type `node -v` in the terminal again. You will see  "v22.11.0".
+If you see the message like this, shutdown Visual Studio Code and relaunch it, then Type `node -v` in the terminal again. You will see "v22.11.0".
 
 ![node -v error message](images/1/5-1.png)
 
@@ -42,13 +42,14 @@ If you see the message like this, shutdown Visual Studio Code and relaunch it, t
 Install `Git` for your platform:
 
 ### Installation for Mac users
+
 Mac users don't have to install git because it is installed by default.
 
 ### Installation for Windows users
+
 Download git installer from following link.
 
 [https://git-scm.com/](https://git-scm.com/)
-
 
 ![Git](images/1/10.png)
 
@@ -105,7 +106,9 @@ Click `Create Fork` Button.
 ![Create Fork](images/1/16.png)
 
 Click `< > Code` Button and copy url for cloning.
+
 <!-- HTTPSのURLを使えばSSHキーの設定は必要なさそう -->
+
 ![](images/1/17.png)
 
 Open terminal and type `git clone <Copied URL>` in the terminal
@@ -113,14 +116,15 @@ Open terminal and type `git clone <Copied URL>` in the terminal
 
 Click `File > Open Folder...` and select `isct-pbc-2024` folder.
 ![Open Folder](images/1/19.png)
-<!-- ![](images/1/2023-11-17-08-38-57.png) -->
 
+<!-- ![](images/1/2023-11-17-08-38-57.png) -->
 
 Click `Yes, I trust the authors`
 
 ![trust the authors](images/1/20.png)
 
 Open terminal and run following two commands.
+
 ```bash
 npm install
 ```
@@ -137,11 +141,12 @@ Open [http://localhost:3000](http://localhost:3000).
 You can confirm that the app is running.
 ![localhost:3000](images/1/22.png)
 
-
 ## Vercel
+
 Lets' create vercel account and deploy the app to vercel.
 
 ### Account creation
+
 Create Vercel account from following URL.
 [https://vercel.com/signup](https://vercel.com/signup)
 
@@ -149,6 +154,7 @@ Select `Continue with GitHub` and authorize vercel.
 ![Git provider selection](images/1/23.png)
 
 ### App deployment
+
 Click `Install` button in `Import Git Repository` section.
 ![Import Git Repository](images/1/24.png)
 
@@ -185,7 +191,6 @@ Your app has been published. Click `Visit` button to confirm.
 Now anyone can see your app by accessing this url.
 ![Url](images/1/30.png)
 
-
 ## Storage Creation
 
 ### Create a project with Supabase
@@ -200,7 +205,6 @@ Click `Supabase`
 Click `Continue`
 
 ![](images/1/33.png)
-
 
 Checked `I accept` and Click `Create New Supabase Account` button.
 
@@ -252,48 +256,56 @@ like this. -->
 ### Create Vercel Link
 
 Open terminal and run following command.
+
 ```bash
 npm i -g vercel@latest
 ```
-![npm i -g vercel@latest](images/1/2023-11-17-09-38-36.png)
+
+![npm i -g vercel@latest](images/1/40.png)
 
 For Only Windows User: Run following command.
+
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 ```
-![](images/1/2023-11-17-09-49-46.png)
+
+![](images/1/41.png)
+
 <!-- Windowsでスクリプトが実行できない時の参考: https://qiita.com/ponsuke0531/items/4629626a3e84bcd9398f -->
 
 Run following command and select `Continue with GitHub`.
+
 ```bash
 vercel link
 ```
-![](images/1/2023-11-17-09-53-56.png)
+
+![](images/1/42.png)
 
 Vercel CLI Login succeeded. Back to terminal.
 
-![](images/1/2023-11-17-09-54-25.png)
+![](images/1/43.png)
 
 When you are asked `Set up “~\learning-phase-4”?`, type `Y` and press Enter key.
 
-![](images/1/2023-11-17-09-56-40.png)
+![](images/1/44.png)
 
 When you are asked `Which scope should contain your project?`, press Enter key.
 
-![](images/1/2023-11-17-09-56-58.png)
+![](images/1/45.png)
 
 When you are asked `Found project “<Your name>s-projects/learning-phase-4”. Link to it?`, type `Y` and press Enter key.
 
 Your local environment has been linked to vercel project.
 
-![](images/1/2023-11-17-10-06-05.png)
+![](images/1/46.png)
 
 Run following command to download environment valiables.
+
 ```bash
 vercel env pull .env
 ```
-![](images/1/2023-11-17-10-07-54.png)
 
+![](images/1/47.png)
 
 The environment setup is now completed!
 
