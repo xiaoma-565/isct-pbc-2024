@@ -29,7 +29,7 @@ async function main() {
       pets: {
         create: [
           {
-            name: 'MIAO',
+            name: 'MIAMIA',
             imageUrl: 'https://cdn2.thecatapi.com/images/716.jpg',
             birthDate: new Date('2023-10-01'),
             gender: 'Male'
