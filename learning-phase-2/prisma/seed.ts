@@ -35,7 +35,7 @@ async function main() {
             gender: 'Male'
           },
           {
-            name: 'SNOW',
+            name: 'GEIGEI',
             imageUrl: 'https://cdn2.thecatapi.com/images/wJyw82pIl.jpg',
             birthDate: new Date('2021-05-11'),
             gender: 'Female'
